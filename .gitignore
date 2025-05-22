@@ -23,9 +23,12 @@
 hs_err_pid*
 replay_pid*
 
-target/
+target
 
+**.idea/**
 .idea/
+*.iml
+.run
 
 # Default ignored files
 /shelf/
